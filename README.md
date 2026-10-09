@@ -2,9 +2,6 @@
 
 A general-purpose Python dashboard that loads the **CSV sample supplied in the assignment PDF**, validates it, detects trends and outliers, computes Pearson correlations, and generates structured human-readable insights.
 
-## Dataset policy
-
-`healthcare_performance.csv` contains only the 12 rows shown in the assignment handout (July and August 2026, six districts). No outside dataset or additional records are used.
 
 ## Features
 
